@@ -1,8 +1,8 @@
 ## Getting Started
 
-First, install dependencies:
+First, install dependencies by running this command in a terminal inside the my-app directory:
 ```bash
-npm run install
+npm install
 ```
 _Note: You'll need to have npm and Node installed for this to work._
 
